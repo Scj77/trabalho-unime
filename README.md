@@ -103,6 +103,10 @@ Dia de pagamento: 30
 Juros: R$ 5.00
 Total a pagar: R$ 105.00
 
+JUROS APLICADO 
+5% DIARIO
+9% MENSAL
+R$ 15.00 DE TAAXA ADCIONAL 
 
 O programa calcula a fatura total, dia de pagamento e aplica juros, pois o pagamento foi feito após o dia 25.
 
